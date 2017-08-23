@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "316733978082",
+    "firebase_url": "https://task4aplikasi.firebaseio.com",
+    "project_id": "task4aplikasi",
+    "storage_bucket": "task4aplikasi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316733978082:android:481039c2f2e0d8b1",
+        "android_client_info": {
+          "package_name": "sigit.task_4_aplikasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316733978082-2b7j3rajhcbnkd8gqerb112i2biq77fv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sigit.task_4_aplikasi",
+            "certificate_hash": "a03a312517c3d030c56270a8124f9c1542e19eb6"
+          }
+        },
+        {
+          "client_id": "316733978082-cv6uc9709ehir0ehgo75d9r3aihb0kei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYrQQ1lWm5YF4TtvrbDwxCNJmpyT4cZWA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316733978082-cv6uc9709ehir0ehgo75d9r3aihb0kei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
